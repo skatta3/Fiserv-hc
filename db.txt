@@ -1,2 +1,3 @@
 MySQL DB Connection properties
 Using MySQL 8.0.32 version
+MySQL version is downgraded
