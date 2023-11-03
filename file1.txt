@@ -1,1 +1,2 @@
 Welcome to Git init
+We have three Git Reset Modes
