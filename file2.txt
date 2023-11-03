@@ -1,1 +1,2 @@
 Welcome to git Reset Hard
+Git stash
